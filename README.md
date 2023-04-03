@@ -1,2 +1,3 @@
-# tms
+# Turing Machines
+
 Turing machines.
